@@ -157,4 +157,26 @@ $EndComp
 Wire Wire Line
 	6550 5050 6550 4850
 Connection ~ 6550 4850
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO1
+U 1 1 617BED72
+P 10850 6850
+F 0 "#LOGO1" H 10850 7125 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 10850 6625 50  0001 C CNN
+F 2 "" H 10850 6850 50  0001 C CNN
+F 3 "~" H 10850 6850 50  0001 C CNN
+	1    10850 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L teTra:Logo L1
+U 1 1 617BF6A2
+P 10200 7000
+F 0 "L1" H 10378 7121 50  0000 L CNN
+F 1 "Logo" H 10378 7030 50  0000 L CNN
+F 2 "teTra:teTra-logo" H 10200 7000 50  0001 C CNN
+F 3 "" H 10200 7000 50  0001 C CNN
+	1    10200 7000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

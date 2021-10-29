@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.9-73d0e3b20d~88~ubuntu20.04.1"
     },
-    "CreationDate":  "2021-10-29T18:27:58+09:00"
+    "CreationDate":  "2021-10-29T21:33:31+09:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "LED-Electroscope",
       "GUID": "4c45442d-456c-4656-9374-726f73636f70",
-      "Revision": "V1.0.0"
+      "Revision": "V1.0.1"
     },
     "Size":
     {
