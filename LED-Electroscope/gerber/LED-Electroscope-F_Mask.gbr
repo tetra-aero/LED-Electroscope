@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,5.1.9-73d0e3b20d~88~ubuntu20.04.1*%
-%TF.CreationDate,2021-10-29T21:33:31+09:00*%
+%TF.CreationDate,2021-10-30T14:27:51+09:00*%
 %TF.ProjectId,LED-Electroscope,4c45442d-456c-4656-9374-726f73636f70,V1.0.1*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.9-73d0e3b20d~88~ubuntu20.04.1) date 2021-10-29 21:33:31*
+G04 Created by KiCad (PCBNEW 5.1.9-73d0e3b20d~88~ubuntu20.04.1) date 2021-10-30 14:27:51*
 %MOMM*%
 %LPD*%
 G01*
