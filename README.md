@@ -6,7 +6,9 @@ This is pcb about LED Electroscope
 
 ## Board
 - Top
-[[ledelectrosope_v1_top][/doc/ledelectrosope_v1_top.jpg]]
+
+![ledelectrosope_v1_top](/doc/ledelectrosope_v1_top.jpg)
 
 - Back
-[[ledelectrosope_v1_back][/doc/ledelectrosope_v1_back.jpg]]
+
+![ledelectrosope_v1_back](/doc/ledelectrosope_v1_back.jpg)
