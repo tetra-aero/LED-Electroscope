@@ -10,4 +10,6 @@ This is pcb about LED Electroscope
 ### Back
 ![ledelectrosope_v1_back](/doc/ledelectrosope_v1_back.jpg)
 ### Operation
+- LED ON when insert Hot (Live), AC100V
+- LED OFF when insert Neural, AC100V and not inserting.
 ![ledelectrosope_v1_operation](/doc/ledelectrosope_v1_operation.png)
